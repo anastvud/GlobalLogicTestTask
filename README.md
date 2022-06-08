@@ -1,0 +1,2 @@
+# GlobalLogicTestTask
+File Path Application
